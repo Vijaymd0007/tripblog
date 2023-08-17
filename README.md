@@ -1,6 +1,12 @@
 
 <h1>Live @</h1>  <h3>https://trip-blog-website-vijay-md.netlify.app/</h3>
 
+<h6>Preview</h6>
+
+## Screenshots
+
+![login.png](./src/preview.png)
+
 # Its a React project
 
 
