@@ -1,7 +1,7 @@
 
 <h1>Live @</h1>  <h3>https://trip-blog-website-vijay-md.netlify.app/</h3>
 
-<h6>Preview</h6>
+<h1>Preview</h1>
 
 ## Screenshots
 
